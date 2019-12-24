@@ -2,8 +2,10 @@
 
 Many people follow the convention of writing SQL keywords in upper case. Few
 people enjoy using shift or caps lock to do it. This plugin fixes that.
+The keywords capitalized are those reserved in PostgreSQL 12 + and/or SQLite 3 +.
 
 ![demo of writing sql query with automatically upper cased keywords](demo.gif)
+
 
 ## Installation
 
